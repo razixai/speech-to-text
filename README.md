@@ -8,7 +8,7 @@ Fast Windows tray dictation that transcribes your speech and pastes clean Englis
 
 
 
-https://github.com/user-attachments/assets/2ab76ef7-5cf6-4702-a165-848e923fbedb
+https://github.com/user-attachments/assets/9d309f4e-1d76-40ca-8863-2a6e1a61285d
 
 
 
