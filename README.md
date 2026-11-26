@@ -4,15 +4,19 @@ Fast Windows tray dictation that transcribes your speech and pastes clean Englis
 
 ---
 
-> **Short Demo** *(quick preview — watching the **[Complete Overview](https://github.com/user-attachments/assets/fe42a181-57ea-437d-9f57-d9fc0b7f35d3)** is recommended)*
+> **Tiny Overview** *(or watch 👉 **[Complete Overview](https://github.com/user-attachments/assets/fe42a181-57ea-437d-9f57-d9fc0b7f35d3)** 👈, in just 3 minutes)*
 
-https://github.com/user-attachments/assets/c3a73c3b-205c-40ea-8e7b-417ec4413a6c
+
+
+https://github.com/user-attachments/assets/2ab76ef7-5cf6-4702-a165-848e923fbedb
+
+
 
 ---
 
 ### Highlights
 
-- **Flexible AI backends** — Live streaming with **ElevenLabs + Gemini**
+- **Flexible AI backends** — Real-time live streaming with **ElevenLabs + Gemini**, sending audio in chunks for faster results.
 - **Effortless dictation** — Global toggle shortcut, automatic media pause/resume, and instant cursor paste
 - **Reliable & customizable** — Retries with audio backups, custom vocabulary fixes, and usage stats
 
