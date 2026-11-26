@@ -5,11 +5,14 @@ Fast Windows tray dictation that transcribes your speech and pastes clean Englis
 ---
 
 > **Short Demo** *(quick preview — watching the **[Complete Overview](#complete-overview)** below is recommended)*
+
 https://github.com/user-attachments/assets/c3a73c3b-205c-40ea-8e7b-417ec4413a6c
 
 #### Complete Overview
+
 https://github.com/user-attachments/assets/fe42a181-57ea-437d-9f57-d9fc0b7f35d3
 
+---
 
 ### Highlights
 
