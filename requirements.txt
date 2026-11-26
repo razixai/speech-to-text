@@ -1,0 +1,13 @@
+# Versions from the verified Windows Python 3.14 runtime.
+keyboard==0.13.5
+numpy==2.5.3
+pyperclip==1.11.0
+sounddevice==0.5.6
+python-dotenv==1.2.3
+Pillow==12.3.0
+pycaw==20251023
+comtypes==1.4.16
+pystray==0.19.5
+websocket-client==1.9.2
+google-genai==2.24.0
+groq==1.7.0
